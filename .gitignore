@@ -1,0 +1,14 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled output
+out/
+out/
+
+# Java build artifacts (optional but safe)
+*.class
+
+# OS files (optional)
+.DS_Store
+Thumbs.db
